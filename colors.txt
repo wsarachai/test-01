@@ -4,5 +4,4 @@ orange
 Blue
 Yellow
 Dark blue
-Dark red
 --------- set 2

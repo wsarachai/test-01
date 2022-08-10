@@ -1,6 +1,8 @@
+--------- set 1
 Red
 orange
 Blue
 Yellow
 Dark blue
 Dark red
+--------- set 2

@@ -6,4 +6,5 @@ XMen
 โดราเอม่อน
 วันพีช
 Movie01
+Movie02
 Movie03

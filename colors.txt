@@ -4,3 +4,4 @@ Blue
 Yellow
 Dark blue
 Dark red
+Light blue
